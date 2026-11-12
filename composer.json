@@ -1,0 +1,18 @@
+{
+    "name": "apurva/phpiggy",
+    "description": "expense tracker app",
+    "authors": [
+        {
+            "name": "apurvakini3",
+            "email": "35326488+apurvakini3@users.noreply.github.com"
+        }
+    ],
+    "type": "project",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Framework\\":"src/Framework",
+            "App\\":"src/App"
+        }
+    }
+}
